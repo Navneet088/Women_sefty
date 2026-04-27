@@ -2,6 +2,6 @@ pandas
 numpy
 matplotlib
 seaborn
-scikit-learn==1.4.2
+scikit-learn
 streamlit
 tqdm
